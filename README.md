@@ -1,2 +1,2 @@
 # helloworld
-sample git repository for hello world
+This is a sample hello world git repository
